@@ -1,6 +1,4 @@
-# python
-
-**1.Question**
+# 1.Question
 
 1.Find numbers ends with 7 in given list?
 
@@ -75,6 +73,56 @@ And iterate the total list and checks the if element in the list module 10 is eq
 ## CODE AND OUTPUT
 
    ![p1ii](https://github.com/B171406/python/assets/119347640/f98b3543-c5ab-48df-8219-8364231064b6)
+
+# 2.Question
+
+1.Find given start pattern?
+
+## Appendix
+
+This  Problem is very usefull to identify the logical thinking of coders.
+
+## Tech Stack
+
+**programming languages:** Python
+
+
+## Problem statement
+
+![p6](https://github.com/B171406/python/assets/119347640/404689fc-95a3-496b-adb9-4666ed898a36)
+
+
+## Demo
+
+https://youtu.be/mvvPb9KBrzo
+
+
+## Approaches
+
+## Final Approach
+
+**step 1:**
+
+Let take the one iterater loop like for or while and initialize the one variable i.
+
+**step 2:**
+
+And let take the another iterater like a nested iterater and initialize the another varible like j.
+
+**step 2:**
+
+j variable iterate up to i variable lenth once j is over that loop terminated and i will became increases and once i varible reach the size then two loops are termintaed.
+
+
+**Complexity**
+
+**Time complexity**: O(n2)
+
+**Space complexity**: O( 1 ) 
+
+## CODE AND OUTPUT
+
+![p6i](https://github.com/B171406/python/assets/119347640/00f4c02d-da68-4a50-9f05-20df00386652)
 
  
  ## THANK YOU
