@@ -110,6 +110,7 @@ https://youtu.be/mvvPb9KBrzo
 ![f2](https://github.com/B171406/python/assets/119347640/cb736413-f3e3-465c-b649-31644c83b00c)
 
 **3nd Test Case**
+
 ![f3](https://github.com/B171406/python/assets/119347640/8aa93339-fae3-4b27-b3f2-094162690840)
 
 # 3.Question
