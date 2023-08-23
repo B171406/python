@@ -274,15 +274,23 @@ https://youtu.be/mvvPb9KBrzo
 
 **step 1:**
 
-Let take the one iterater loop like for or while and initialize the one variable i.
+Begin by setting up an iteration loop using 'for' or 'while' and initialize a variable named 'i'. This variable will keep track of the current iteration.
 
 **step 2:**
 
-And let take the another iterater like a nested iterater and initialize the another varible like j.
+Within the main loop, set up another nested iteration loop and initialize a variable named 'j'. This nested loop will iterate from 0 to the current value of 'i'.
 
-**step 2:**
+**step 3:**
 
-j variable iterate up to i variable lenth once j is over that loop terminated and i will became increases and once i varible reach the size then two loops are termintaed.
+-Iterate the variable 'j' up to the current value of 'i'.
+
+-Once 'j' completes its iteration, terminate the nested loop.
+
+-Increment the value of 'i'.
+
+-Once 'i' reaches the desired size or condition, terminate both loops.
+
+This process involves two levels of iteration, where 'i' controls the outer loop and 'j' controls the nested loop. The nested loop iterates up to the current value of 'i' in each iteration of the outer loop, and the entire process continues until 'i' reaches the desired size or condition.
 
 
 **Complexity**
