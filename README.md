@@ -1,6 +1,6 @@
 # 1.Question
 
-1.Find numbers ends with 7 in given list?
+-Find numbers ends with 7 in given list?
 
 
 ## Acknowledgements
@@ -76,7 +76,7 @@ Within the loop, traverse through the entire input list element by element. For 
 
 ->Check if the result of the modulo operation is equal to 7.
 
-->If the result is indeed 7, add the current element to the 'ans' list.
+-If the result is indeed 7, add the current element to the 'ans' list.
 
 This process will compile a list of numbers from the original input list that end with the digit 7.
 
@@ -145,7 +145,7 @@ Finally,iterates  the each folder and its set of operations. If the set has oper
 
 # 3.Question
 
-->fibonacci numbers?
+-print fibonacci series?
 
 ## Appendix
 
@@ -198,7 +198,7 @@ This  Problem is very usefull to identify the logical thinking of coders.
 
 # 5.Question
 
-->extract numbers in given numbers?
+-extract numbers in given numbers?
 
 ## Appendix
 
@@ -297,7 +297,7 @@ j variable iterate up to i variable lenth once j is over that loop terminated an
 
 # 7.Question
 
-->Data frame?
+-sum of 4th Column in the given dataframe?
 
 ## Appendix
 
@@ -315,11 +315,7 @@ This  Problem is very usefull to identify the logical thinking of coders.
 
 https://youtu.be/mvvPb9KBrzo
 
-## Approaches
-
-**Brute force approache :**
-
-## Final Approach
+## Approache
 
 **step 1:**
 
