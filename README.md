@@ -307,6 +307,13 @@ https://youtu.be/mvvPb9KBrzo
 
 ## Final Approach
 
+**step 1:**
+
+Imports the pandas library and assigns it the alias pd. This alias is commonly used to reference pandas functions and classes.
+
+**step 2:**
+
+
 ## CODE AND OUTPUT
 
 ![data](https://github.com/B171406/python/assets/119347640/152ae02d-b5bf-4615-a0ef-76fc281b9eb2)
