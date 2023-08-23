@@ -23,7 +23,7 @@ This anagram Problem is very usefull to identify the logical thinking of coders
 
 
 ## Problem statement
-![prob](https://github.com/B171406/Anagram/assets/119347640/30e9e176-9424-4ce5-9c91-fe727bebb14d)
+![prob]("C:\Users\navee\OneDrive\Desktop\pics\p1.png")
 ## Demo
 
 https://youtu.be/mvvPb9KBrzo
