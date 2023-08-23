@@ -80,11 +80,6 @@ Within the loop, traverse through the entire input list element by element. For 
 
 This process will compile a list of numbers from the original input list that end with the digit 7.
 
-
-
-
-
-
 **Complexity**
 
 **Time complexity**: O(n )
