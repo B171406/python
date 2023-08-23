@@ -76,6 +76,77 @@ And iterate the total list and checks the if element in the list module 10 is eq
 
 # 2.Question
 
+1.files?
+
+## Appendix
+
+This  Problem is very usefull to identify the logical thinking of coders.
+
+## Tech Stack
+
+**programming languages:** Python
+
+
+## Problem statement
+
+![p2](https://github.com/B171406/python/assets/119347640/0d9b4c71-26c4-4611-8e2e-125bed2afbca)
+
+# 3.Question
+
+->fibonacci numbers?
+
+## Appendix
+
+This  Problem is very usefull to identify the logical thinking of coders.
+
+## Tech Stack
+
+**programming languages:** Python
+
+
+## Problem statement
+
+![p2i](https://github.com/B171406/python/assets/119347640/085b9818-6162-47ca-b6d6-64e0c4c33a5e)
+
+![p2ii](https://github.com/B171406/python/assets/119347640/02762531-33d9-4727-89df-64b64003590a)
+
+# 4.Question
+
+->django?
+
+## Appendix
+
+This  Problem is very usefull to identify the logical thinking of coders.
+
+## Tech Stack
+
+**programming languages:** Python
+
+
+## Problem statement
+
+![p4](https://github.com/B171406/python/assets/119347640/606b54d3-6a66-4126-8fe5-308561d538be)
+
+# 5.Question
+
+->extract numbers in given numbers?
+
+## Appendix
+
+This  Problem is very usefull to identify the logical thinking of coders.
+
+## Tech Stack
+
+**programming languages:** Python
+
+
+## Problem statement
+
+![p5](https://github.com/B171406/python/assets/119347640/e00bd1f7-65bf-4ec4-8ce5-8105ce54a6a8)
+
+
+# 6.Question
+
 1.Find given start pattern?
 
 ## Appendix
@@ -123,6 +194,22 @@ j variable iterate up to i variable lenth once j is over that loop terminated an
 ## CODE AND OUTPUT
 
 ![p6i](https://github.com/B171406/python/assets/119347640/00f4c02d-da68-4a50-9f05-20df00386652)
+
+# 7.Question
+
+->Data frame?
+
+## Appendix
+
+This  Problem is very usefull to identify the logical thinking of coders.
+
+## Tech Stack
+
+**programming languages:** Python
+
+
+## Problem statement
+![p7](https://github.com/B171406/python/assets/119347640/40ac92cf-d69e-4e90-8fce-afe4896db180)
 
  
  ## THANK YOU
