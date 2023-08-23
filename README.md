@@ -24,8 +24,10 @@ This  Problem is very usefull to identify the logical thinking of coders.
 
 
 ## Problem statement
-![prob]((https://github.com/B171406/python/assets/119347640/47408914-9387-4fce-a300-5f0e3cba08a1)
-)
+
+![p1](https://github.com/B171406/python/assets/119347640/fe4347b4-2b5b-4f9b-a307-f4c7769ae4da)
+
+
 ## Demo
 
 https://youtu.be/mvvPb9KBrzo
@@ -50,6 +52,7 @@ input list each element converted to string
 **TC:** O(n2)
 
 **SC:** o(1)
+
 ![p1i](https://github.com/B171406/python/assets/119347640/2061e13e-03dd-4825-9a5f-40f3707fc071)
 
 ## Final Approach
