@@ -210,6 +210,22 @@ https://youtu.be/mvvPb9KBrzo
 
 ## Final Approach
 
+**step 1:**
+
+ Initialize  **answer** list  to store the extracted numbers, and **curr_num** is used to temporarily hold the digits of the current number.
+
+**step 2:**
+
+Iterates loop checks if the current character is a digit. If it is, the character is added to **curr_num** to build up the current number. If a non-digit character is encountered and **curr_num** is not empty, the current number (stored in **curr_num**) is converted to an integer using **int(curr_num)** and then appended to the **answer** list. The **curr_num** is then reset to an empty string to start building the next number.
+
+**step 3:**
+
+After the loop is done, if there is still a remaining value in **curr_num**, it means there is a number left to append. That  number is added to **answer** list.
+
+**step 4:**
+
+Finally, the extracted numbers are print it by iterating over the answer list and printing each number.
+
 ## CODE AND OUTPUT
 
 ![extract](https://github.com/B171406/python/assets/119347640/856064cd-050e-4c1e-b06e-6cde001fe965)
