@@ -37,15 +37,23 @@ https://youtu.be/mvvPb9KBrzo
 
 **step1 :**
 
-initialize the one new list to stored the numbers(ends with 7)
-and named as ans.
+Initialize a new list called 'ans' to store numbers that end with the digit '7'.
 
 **step 2:**
-input list each element converted to string
 
-**step 3:** And chech the indivudual string last character is '7' or not if last character is '7' then convert string to number and added to ans list.
+nput a list of elements. Each element in the list should be treated as a string.
 
-**step 5:** print the ans list.
+
+**step 3:** 
+
+For each element in the input list:
+
+->Check if the last character of the element is '7'.
+->If the last character is '7', convert the string element to a number and add it to the 'ans' list.
+
+**step 4:**
+
+ Print the 'ans' list, which contains the numbers from the input list that end with the digit '7'.
 
 **TC:** O(n2)
 
