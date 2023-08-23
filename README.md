@@ -49,6 +49,7 @@ nput a list of elements. Each element in the list should be treated as a string.
 For each element in the input list:
 
 ->Check if the last character of the element is '7'.
+
 ->If the last character is '7', convert the string element to a number and add it to the 'ans' list.
 
 **step 4:**
