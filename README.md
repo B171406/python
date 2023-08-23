@@ -16,7 +16,7 @@ This  Problem is very usefull to identify the logical thinking of coders.
 
 ## Tech Stack
 
-**Data structures:** List
+**collection data types:** List
 
 **programming languages:** Python
 
@@ -92,13 +92,15 @@ This process will compile a list of numbers from the original input list that en
 
 # 2.Question
 
-1.files?
+1.Print the folder name from the list of file operations?
 
 ## Appendix
 
 This  Problem is very usefull to identify the logical thinking of coders.
 
 ## Tech Stack
+
+**collection data types:** dictionary,Lsit
 
 **programming languages:** Python
 
@@ -111,11 +113,7 @@ This  Problem is very usefull to identify the logical thinking of coders.
 
 https://youtu.be/mvvPb9KBrzo
 
-## Approaches
-
-**Brute force approache :**
-
-## Final Approach
+## Approache
 
 **step 1:**
 
