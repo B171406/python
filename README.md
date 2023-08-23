@@ -313,6 +313,15 @@ Imports the pandas library and assigns it the alias pd. This alias is commonly u
 
 **step 2:**
 
+A list of lists named **data** is created to represent the data. Each inner list corresponds to a row in the DataFrame. The pd.DataFrame() function is used to create a DataFrame from this data. The columns parameter specifies the column names for the DataFrame.
+
+**step 3:**
+
+Next calculates the sum of the values in the 4th column of the DataFrame using the '.sum()' method. The column is accessed using square brackets and the column name 'Column3'.
+
+**step 4:**
+
+And print sum of the values in the 4th column.
 
 ## CODE AND OUTPUT
 
