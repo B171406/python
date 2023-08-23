@@ -23,7 +23,8 @@ This anagram Problem is very usefull to identify the logical thinking of coders
 
 
 ## Problem statement
-![prob]("C:\Users\navee\OneDrive\Desktop\pics\p1.png")
+![prob]("![p1](https://github.com/B171406/python/assets/119347640/47408914-9387-4fce-a300-5f0e3cba08a1)
+")
 ## Demo
 
 https://youtu.be/mvvPb9KBrzo
