@@ -66,11 +66,23 @@ For each element in the input list:
 
 **step 1:**
 
-Let take the one iterater loop like for or while and initialize the one ans list is used to stored the numbers(ends with 7).
+Begin by setting up an iterator loop, such as a 'for' or 'while' loop. Additionally, initialize a list called 'ans', which will be used to store numbers ending with the digit 7.
 
 **step 2:**
 
-And iterate the total list and checks the if element in the list module 10 is equal to 7 or not.if it is 7 then add to the element to ans list
+Within the loop, traverse through the entire input list element by element. For each element:
+
+->Perform a modulo operation on the element with 10.
+
+->Check if the result of the modulo operation is equal to 7.
+
+->If the result is indeed 7, add the current element to the 'ans' list.
+
+This process will compile a list of numbers from the original input list that end with the digit 7.
+
+
+
+
 
 
 **Complexity**
