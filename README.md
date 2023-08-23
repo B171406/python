@@ -91,6 +91,27 @@ This  Problem is very usefull to identify the logical thinking of coders.
 
 ![p2](https://github.com/B171406/python/assets/119347640/0d9b4c71-26c4-4611-8e2e-125bed2afbca)
 
+## Demo
+
+https://youtu.be/mvvPb9KBrzo
+
+## Approaches
+
+**Brute force approache :**
+
+## Final Approach
+
+## CODE AND OUTPUT
+
+![f1](https://github.com/B171406/python/assets/119347640/2d329321-b1bc-44c0-ad36-691ee8d9e795)
+
+**2nd Test Case**
+
+![f2](https://github.com/B171406/python/assets/119347640/cb736413-f3e3-465c-b649-31644c83b00c)
+
+**3nd Test Case**
+![f3](https://github.com/B171406/python/assets/119347640/8aa93339-fae3-4b27-b3f2-094162690840)
+
 # 3.Question
 
 ->fibonacci numbers?
