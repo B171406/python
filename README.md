@@ -101,6 +101,22 @@ https://youtu.be/mvvPb9KBrzo
 
 ## Final Approach
 
+**step 1:**
+
+The input string from the user and splitting it into a list named l1 using commas as separators. This list contains the file operations performed.
+
+**step 2:**
+
+Then, we initialize the **current_folder** variable to keep track of the current folder being processed. The **folders** dictionary will hold the folder names as keys and a set of operation strings as values. **isValidString** is used as a special key to mark invalid operations.
+
+**step 3:**
+
+Next iterates through each operation in the list. If the operation starts with "goto", it's assumed to be changing the current folder, and the corresponding folder name is stored in **current_folder**. A new set is created in the **folders** dictionary for this folder to hold the operations. If the operation is not "goto", it's treated as a file operation. If the operation hasn't been recorded for the current folder yet, it's added to the set. If it has been recorded, the **isValidString** is added to the set to mark this operation as invalid.
+
+**step 4:**
+
+Finally,iterates  the each folder and its set of operations. If the set has operations and doesn't contain the isValidString, it means the conditions are met, and the folder name is printed.
+
 ## CODE AND OUTPUT
 
 ![f1](https://github.com/B171406/python/assets/119347640/2d329321-b1bc-44c0-ad36-691ee8d9e795)
