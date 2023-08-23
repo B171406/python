@@ -132,6 +132,23 @@ This  Problem is very usefull to identify the logical thinking of coders.
 
 ![p2ii](https://github.com/B171406/python/assets/119347640/02762531-33d9-4727-89df-64b64003590a)
 
+## Demo
+
+https://youtu.be/mvvPb9KBrzo
+
+## Approaches
+
+**Brute force approache :**
+
+## Final Approach
+
+## CODE AND OUTPUT
+
+**Tabular aproach**
+
+![fib1](https://github.com/B171406/python/assets/119347640/0e6b16f0-7285-478a-b6ce-84c83d3360d0)
+
+
 # 4.Question
 
 ->django?
@@ -165,6 +182,21 @@ This  Problem is very usefull to identify the logical thinking of coders.
 ## Problem statement
 
 ![p5](https://github.com/B171406/python/assets/119347640/e00bd1f7-65bf-4ec4-8ce5-8105ce54a6a8)
+
+
+## Demo
+
+https://youtu.be/mvvPb9KBrzo
+
+## Approaches
+
+**Brute force approache :**
+
+## Final Approach
+
+## CODE AND OUTPUT
+
+![extract](https://github.com/B171406/python/assets/119347640/856064cd-050e-4c1e-b06e-6cde001fe965)
 
 
 # 6.Question
@@ -232,6 +264,50 @@ This  Problem is very usefull to identify the logical thinking of coders.
 
 ## Problem statement
 ![p7](https://github.com/B171406/python/assets/119347640/40ac92cf-d69e-4e90-8fce-afe4896db180)
+
+## Demo
+
+https://youtu.be/mvvPb9KBrzo
+
+## Approaches
+
+**Brute force approache :**
+
+## Final Approach
+
+## CODE AND OUTPUT
+
+![data](https://github.com/B171406/python/assets/119347640/152ae02d-b5bf-4615-a0ef-76fc281b9eb2)
+
+# 8.Question
+
+->graph?
+
+## Appendix
+
+This  Problem is very usefull to identify the logical thinking of coders.
+
+## Tech Stack
+
+**programming languages:** Python
+
+
+## Problem statement
+
+![p8](https://github.com/B171406/python/assets/119347640/8a29cf43-c627-4b9b-a6fd-d47a2c35ce13)
+
+
+## Demo
+
+https://youtu.be/mvvPb9KBrzo
+
+## Approaches
+
+**Brute force approache :**
+
+## Final Approach
+
+## CODE AND OUTPUT
 
  
  ## THANK YOU
