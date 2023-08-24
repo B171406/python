@@ -323,6 +323,14 @@ Imports the re module, which is used for working with regular expressions.
  **step 3:**
 
  Convert string list to int And print it.
+ 
+ **Time Complexity (TC)**:
+
+  -Linear time complexity: O(n) where n is the input size, regardless of the scale (gigabytes).
+  
+**Space Complexity (SC):**
+
+Linear space complexity: O(n) where n is the amount of memory used, regardless of the scale (gigabytes).
 
 ## CODE AND OUTPUT
 
@@ -348,7 +356,10 @@ After the loop is done, if there is still a remaining value in **curr_num**, it 
 Finally, the extracted numbers are print it by iterating over the answer list and printing each number.
 
 **Time Complexity**: O(n)
-**Space Complexity**: O(k), where k is the number of extracted numbers (size of the answer list).
+
+**Space Complexity**: 
+
+O(k), where k is the number of extracted numbers (size of the answer list).
 
 ## CODE AND OUTPUT
 
