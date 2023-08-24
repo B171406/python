@@ -176,6 +176,35 @@ https://youtu.be/mvvPb9KBrzo
 
 ## Approach 2(But It Works Number_Terms>3)
 
+**step 1:**
+
+First initializing three variables: **previous1**, **previous2**, and **previous3**. These variables will be used to keep track of the previous three numbers in the series.
+
+**step 2:**
+
+We define a function named **fib** that takes a parameter **num**. This parameter will represent the number of terms in the Fibonacci series that we want to print.
+
+**step 3:**
+
+Inside the function, we declare the three previously initialized variables as global. This allows we to modify their values within the function and have those changes affect the global scope.
+
+**step 4:**
+
+We print the initial values of 'previous1', 'previous2', and 'previous3'. This will print 0, 1, and 1 respectively.
+
+**step 5:**
+Iterates the one for loop. That loop calculates and prints the Fibonacci series starting from the fourth term ('index 3') up to the 'num'-th term. In each iteration:
+
+-temp temporarily holds the value of previous1.
+
+-previous1 is updated with the value of previous2.
+
+-previous2 is updated with the value of previous3.
+
+-previous3 is updated with the sum of temp, previous1, and previous2, which represents the next number in the Fibonacci series.
+
+The calculated value of previous3 And printed.
+
 ## CODE AND OUTPUT 
 
 ![fib2](https://github.com/B171406/python/assets/119347640/cd4e9275-df27-4d9b-ae02-b594272ec190)
@@ -237,7 +266,7 @@ https://youtu.be/mvvPb9KBrzo
 
 **step 2:**
 
-Iterates loop checks if the current character is a digit. If it is, the character is added to **curr_num** to build up the current number. If a non-digit character is encountered and **curr_num** is not empty, the current number (stored in **curr_num**) is converted to an integer using **int(curr_num)** and then appended to the **answer** list. The **curr_num** is then reset to an empty string to start building the next number.
+Iterates the loop checks if the current character is a digit. If it is, the character is added to **curr_num** to build up the current number. If a non-digit character is encountered and **curr_num** is not empty, the current number (stored in **curr_num**) is converted to an integer using **int(curr_num)** and then appended to the **answer** list. The **curr_num** is then reset to an empty string to start building the next number.
 
 **step 3:**
 
