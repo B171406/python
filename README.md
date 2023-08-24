@@ -274,7 +274,7 @@ https://youtu.be/mvvPb9KBrzo
 
 ## Approaches
 
-**Brute force approache :**
+**Brute force approache using pre-defind functions :**
 
 **step 1:**
 
