@@ -170,6 +170,24 @@ https://youtu.be/mvvPb9KBrzo
 
 ##  Approach 1 
 
+**step 1:**
+
+We define a function named 'fib' that takes an integer parameter 'n'. This parameter represents the number of terms in the modified Fibonacci series.
+
+**step 2:**
+
+We initialize a list named 'dp' with the first three terms of the modified Fibonacci series: 0, 1, and 1. This list will be used to store the calculated terms of the series.
+
+**step 3:**
+
+Let  iterates one loop from the 3rd index (since the first three terms are already initialized) up to 'n - 1'. For each index i, it calculates the next term by summing up the values of the three previous terms (**dp[i - 3]**, **dp[i - 2]**, and **dp[i - 1]**). The calculated term is then added to the dp list.
+
+**step 4:**
+
+After calculating the modified Fibonacci series using dynamic programming, the function returns the dp list, which now contains the series.
+
+And print it.
+
 ## CODE AND OUTPUT 
 
 ![fib1](https://github.com/B171406/python/assets/119347640/0e6b16f0-7285-478a-b6ce-84c83d3360d0)
