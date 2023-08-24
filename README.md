@@ -444,6 +444,12 @@ https://youtu.be/mvvPb9KBrzo
 
 ## Final Approach
 
+![g1](https://github.com/B171406/python/assets/119347640/18fa052e-8921-426c-8384-30bdd6faf229)
+
+![g2](https://github.com/B171406/python/assets/119347640/fd1e2212-a493-40b6-85c2-55a7018d935d)
+
+
+
 ## CODE AND OUTPUT
 
 ![gra](https://github.com/B171406/python/assets/119347640/cf14f33e-9fc8-494f-be00-762fb1424108)
