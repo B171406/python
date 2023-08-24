@@ -168,15 +168,22 @@ https://youtu.be/mvvPb9KBrzo
 
 ## Approaches
 
-**Brute force approache :**
+##  Approach 1 
 
-## Final Approach
+## CODE AND OUTPUT 
 
-## CODE AND OUTPUT
+![fib1](https://github.com/B171406/python/assets/119347640/0e6b16f0-7285-478a-b6ce-84c83d3360d0)
+
+## Approach 2(But It Works Number_Terms>3)
+
+## CODE AND OUTPUT 
+
+![fib2](https://github.com/B171406/python/assets/119347640/cd4e9275-df27-4d9b-ae02-b594272ec190)
+
 
 **Tabular aproach**
 
-![fib1](https://github.com/B171406/python/assets/119347640/0e6b16f0-7285-478a-b6ce-84c83d3360d0)
+
 
 
 # 4.Question
