@@ -124,6 +124,12 @@ Next iterates through each operation in the list. If the operation starts with "
 
 Finally,iterates  the each folder and its set of operations. If the set has operations and doesn't contain the isValidString, it means the conditions are met, and the folder name is printed.
 
+**Complexity**
+
+**Time Complexity**: O(n * m + k)
+
+**Space Complexity**: O(n)
+
 ## CODE AND OUTPUT
 
 ![f1](https://github.com/B171406/python/assets/119347640/2d329321-b1bc-44c0-ad36-691ee8d9e795)
