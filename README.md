@@ -446,4 +446,7 @@ https://youtu.be/mvvPb9KBrzo
 
 ## CODE AND OUTPUT
 
+![gra](https://github.com/B171406/python/assets/119347640/cf14f33e-9fc8-494f-be00-762fb1424108)
+
+
  ## THANK YOU
