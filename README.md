@@ -92,7 +92,7 @@ This process will compile a list of numbers from the original input list that en
 
 # 2.Question
 
-1.Print the folder name from the list of file operations?
+-Print the folder name from the list of file operations?
 
 ## Appendix
 
