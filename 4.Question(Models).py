@@ -1,3 +1,5 @@
+# This Question is solving using Django  Also
+
 class User:
     def __init__(self, name, email):
         self.name = name
