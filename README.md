@@ -184,6 +184,10 @@ After calculating the modified Fibonacci series using dynamic programming, the f
 
 And print it.
 
+**Time Complexity**: O(n)
+
+**Space Complexity**: O(n)
+
 ## CODE AND OUTPUT 
 
 ![fib1](https://github.com/B171406/python/assets/119347640/0e6b16f0-7285-478a-b6ce-84c83d3360d0)
@@ -218,6 +222,10 @@ Iterates the one for loop. That loop calculates and prints the Fibonacci series 
 -previous3 is updated with the sum of temp, previous1, and previous2, which represents the next number in the Fibonacci series.
 
 The calculated value of previous3 And printed.
+
+**Time Complexity**: O(n)
+
+**Space Complexity**: O(1)
 
 ## CODE AND OUTPUT 
 
@@ -302,6 +310,9 @@ After the loop is done, if there is still a remaining value in **curr_num**, it 
 **step 4:**
 
 Finally, the extracted numbers are print it by iterating over the answer list and printing each number.
+
+**Time Complexity**: O(n)
+**Space Complexity**: O(k), where k is the number of extracted numbers (size of the answer list).
 
 ## CODE AND OUTPUT
 
@@ -397,6 +408,10 @@ Next calculates the sum of the values in the 4th column of the DataFrame using t
 **step 4:**
 
 And print sum of the values in the 4th column.
+
+**Time Complexity**: O(m * n), where m is the number of rows and n is the number of columns in the dataframe.
+
+**Space Complexity**: O(m * n), considering the space required to store the dataframe itself.
 
 ## CODE AND OUTPUT
 
