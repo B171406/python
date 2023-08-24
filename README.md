@@ -26,11 +26,6 @@ This  Problem is very usefull to identify the logical thinking of coders.
 ![p1](https://github.com/B171406/python/assets/119347640/fe4347b4-2b5b-4f9b-a307-f4c7769ae4da)
 
 
-## Demo
-
-https://youtu.be/mvvPb9KBrzo
-
-
 ## Approaches
 
 **Brute force approache :**
@@ -109,9 +104,7 @@ This  Problem is very usefull to identify the logical thinking of coders.
 
 ![p2](https://github.com/B171406/python/assets/119347640/0d9b4c71-26c4-4611-8e2e-125bed2afbca)
 
-## Demo
 
-https://youtu.be/mvvPb9KBrzo
 
 ## Approache
 
@@ -162,9 +155,6 @@ This  Problem is very usefull to identify the logical thinking of coders.
 
 ![p2ii](https://github.com/B171406/python/assets/119347640/02762531-33d9-4727-89df-64b64003590a)
 
-## Demo
-
-https://youtu.be/mvvPb9KBrzo
 
 ## Approaches
 
@@ -268,10 +258,6 @@ This  Problem is very usefull to identify the logical thinking of coders.
 ![p5](https://github.com/B171406/python/assets/119347640/e00bd1f7-65bf-4ec4-8ce5-8105ce54a6a8)
 
 
-## Demo
-
-https://youtu.be/mvvPb9KBrzo
-
 ## Approaches
 
 **Brute force approache using pre-defind functions :**
@@ -334,10 +320,6 @@ This  Problem is very usefull to identify the logical thinking of coders.
 ![p6](https://github.com/B171406/python/assets/119347640/404689fc-95a3-496b-adb9-4666ed898a36)
 
 
-## Demo
-
-https://youtu.be/mvvPb9KBrzo
-
 
 ## Approaches
 
@@ -390,9 +372,7 @@ This  Problem is very usefull to identify the logical thinking of coders.
 ## Problem statement
 ![p7](https://github.com/B171406/python/assets/119347640/40ac92cf-d69e-4e90-8fce-afe4896db180)
 
-## Demo
 
-https://youtu.be/mvvPb9KBrzo
 
 ## Approache
 
@@ -434,9 +414,6 @@ This  Problem is very usefull to identify the logical thinking of coders.
 ![p8](https://github.com/B171406/python/assets/119347640/8a29cf43-c627-4b9b-a6fd-d47a2c35ce13)
 
 
-## Demo
-
-https://youtu.be/mvvPb9KBrzo
 
 ## Approach
 
