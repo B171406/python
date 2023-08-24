@@ -276,6 +276,23 @@ https://youtu.be/mvvPb9KBrzo
 
 **Brute force approache :**
 
+**step 1:**
+
+Imports the re module, which is used for working with regular expressions.
+
+**step 2:**
+
+ The **re.findall()** function to find all occurrences of one or more digits (\d+) in the input string. It returns a list of strings where each string represents a sequence of digits.
+ 
+ **step 3:**
+
+ Convert string list to int And print it.
+
+## CODE AND OUTPUT
+
+![e2](https://github.com/B171406/python/assets/119347640/a0453253-c6c7-4fe6-9c61-b10008d6118f)
+
+
 ## Final Approach
 
 **step 1:**
