@@ -236,7 +236,7 @@ The calculated value of previous3 And printed.
 
 # 4.Question
 
-->django?
+-some operations done by given orders?.
 
 ## Appendix
 
@@ -250,6 +250,43 @@ This  Problem is very usefull to identify the logical thinking of coders.
 ## Problem statement
 
 ![p4](https://github.com/B171406/python/assets/119347640/606b54d3-6a66-4126-8fe5-308561d538be)
+
+## Approaches
+
+**step 1:**
+
+Create three classes: User, Item, and Order. These classes have attributes that represent the properties of users, items, and orders.
+
+**step 2:**
+ 
+ creates simulated data instances for users, items, and orders using the defined classes.
+
+ creates instances for users, items, and orders, and stores them in the orders list.
+
+**step 3:**
+
+**List Orders with Quantity More Than 10:**
+
+  -write a code uses a list comprehension to filter orders with a quantity greater than 10,Then, extracts the names of items from these orders.
+  
+**List Orders with "Samsung" in Item Name:**
+
+  -write a code filters orders that have "Samsung" in their item's name, then extracts the dates of these orders:
+
+**Calculate Total Quantity for Item ID 23:**
+
+  -write a code calculates the total quantity of orders for a specific item (item with ID 23).
+
+  Finally,  prints the results using the extracted data:
+
+## CODE AND OUTPUT 
+
+![81](https://github.com/B171406/python/assets/119347640/f08acb72-7911-4f4f-b21a-7d3980536afb)
+
+![8](https://github.com/B171406/python/assets/119347640/c24c128b-6c55-458f-8df7-a64af80e8733)
+
+
+
 
 # 5.Question
 
