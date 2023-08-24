@@ -152,6 +152,8 @@ This  Problem is very usefull to identify the logical thinking of coders.
 
 ## Tech Stack
 
+**collection data types:** List
+
 **programming languages:** Python
 
 
@@ -232,11 +234,6 @@ The calculated value of previous3 And printed.
 ![fib2](https://github.com/B171406/python/assets/119347640/cd4e9275-df27-4d9b-ae02-b594272ec190)
 
 
-**Tabular aproach**
-
-
-
-
 # 4.Question
 
 ->django?
@@ -263,6 +260,8 @@ This  Problem is very usefull to identify the logical thinking of coders.
 This  Problem is very usefull to identify the logical thinking of coders.
 
 ## Tech Stack
+
+**collection data types:** List
 
 **programming languages:** Python
 
