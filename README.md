@@ -418,7 +418,7 @@ And print sum of the values in the 4th column.
 
 # 8.Question
 
-->graph?
+-Print a bar or line graph?
 
 ## Appendix
 
