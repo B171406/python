@@ -1,4 +1,14 @@
+
 # This Question is solving using Django  Also
+# step1:install the django
+# step2:create the project_title
+# step3:create the app
+# step4:write the models
+# step5:Run migrations
+# step6:give the admin configuration
+# step7:create  superuser
+# step8:run the development server
+# step9:Access the sdmin site and perform theoperations
 
 class User:
     def __init__(self, name, email):
