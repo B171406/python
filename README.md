@@ -438,11 +438,41 @@ This  Problem is very usefull to identify the logical thinking of coders.
 
 https://youtu.be/mvvPb9KBrzo
 
-## Approaches
+## Approach
 
-**Brute force approache :**
+**step 1:**
 
-## Final Approach
+The first step is to import the Matplotlib library, which is used for creating visualizations, including plots and graphs.
+
+**step 2:**
+
+Given data is a list of dictionaries containing information about students and their scores.and extract relevant information from the data using given code.
+
+Here, 'names' holds the names of the students, and 'exam_scores', 'quiz_scores', and 'homework_scores' hold the corresponding scores for each student's exam, quiz, and homework.
+
+**step 3:**
+
+Creating the bar graph using:
+
+-'plt.figure(figsize=(16, 8))' sets the size of the figure.
+
+-'plt.bar' is used to create each set of bars. The bottom parameter specifies the starting point for each set of bars, allowing them to be stacked.
+
+**step 4:**
+
+-Creat the Labels and title.
+
+-Adding a Legend and Formatting:
+
+The legend helps identify which part of the bar corresponds to each score type.
+
+   -'plt.legend()' adds a legend based on the labels given during the plt.bar calls.
+      
+   -'plt.xticks(rotation=45, ha="right")' rotates the x-axis labels by 45 degrees and aligns them to the right for better readability.
+
+**step 5:**
+
+Finally, the graph is displayed using 'plt.tight_layout()' to ensure everything fits properly and then 'plt.show()' to actually display the graph.
 
 ![g1](https://github.com/B171406/python/assets/119347640/18fa052e-8921-426c-8384-30bdd6faf229)
 
